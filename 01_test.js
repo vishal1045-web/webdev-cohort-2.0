@@ -1,7 +1,7 @@
 
 export function getTicketPrice(age, isWeekend) {
     // Your code here
-    var age =19;
+    var age =18;
     if (typeof age !== 'number' || age < 0) return -1;
     
       let price;
