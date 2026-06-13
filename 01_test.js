@@ -37,3 +37,7 @@ return (2,3);
 return (8,10);
 return (10,20);
 return (30,40);
+  function multiply(a,b){
+    return a*b;
+  }
+  multiply(2,3);
