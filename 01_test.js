@@ -29,6 +29,14 @@ export function getTicketPrice(age, isWeekend) {
       return price;
   }
 
+function multiply(a,b){
+  if (a<0 || b< 0) throw new Error('No neg allowed')
+  return a*b;
+}
+return (2,3);
+return (8,10);
+return (10,20);
+return (30,40);
   function multiply(a,b){
     return a*b;
   }
