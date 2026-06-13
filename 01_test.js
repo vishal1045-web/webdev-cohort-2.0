@@ -28,3 +28,7 @@ export function getTicketPrice(age, isWeekend) {
       // ... rest of your logic
       return price;
   }
+
+function multiply(a,b){
+  return a*b;
+}
